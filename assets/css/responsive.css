@@ -1,0 +1,536 @@
+        /* ----------------------------------------------------------------------- */
+        /* 	Coming Soon Style 1 Responsive CSS */
+        /*------------------------------------------------------------------------ */
+        
+        @media screen and (max-width: 1999px) {
+            @media screen and (max-width: 1799px) {
+                #main-content-contact .contact-small-title {
+                    font-size: 20px;
+                    margin-bottom: 10px;
+                }
+                #main-content-contact .contact-main-title {
+                    font-size: 45px;
+                    margin-bottom: 23px;
+                    line-height: 50px;
+                }
+                #main-content-contact .form-control {
+                    height: 45px;
+                    font-size: 14px;
+                    padding: 15px 23px;
+                }
+                #main-content-contact textarea.form-control {
+                    height: auto;
+                    font-size: 14px;
+                    padding: 15px 23px;
+                }
+                #main-content-contact .btn {
+                    padding: 20px;
+                }
+                #main-content-contact .contact-form {
+                    padding: 30px 70px;
+                }
+                #main-content-contact .location-map {
+                    height: 505px;
+                }
+            }
+            @media screen and (max-width: 1599px) {
+                .small-title {
+                    margin-bottom: 10px;
+                }
+                .main-title {
+                    margin-bottom: 25px;
+                }
+                .contact-small-title {
+                    font-size: 17px;
+                    margin-bottom: 5px;
+                }
+                .contact-main-title {
+                    font-size: 34px;
+                    margin-bottom: 23px;
+                    line-height: 38px;
+                }
+                .form-control {
+                    height: 35px;
+                    font-size: 14px;
+                    padding: 8px 23px;
+                }
+                #main-content-contact .btn {
+                    padding: 20;
+                }
+                .location-map {
+                    height: 430px;
+                }
+                .contact-form {
+                    padding: 25px 70px;
+                }
+                #main-content-about .about-small-title {
+                    margin-bottom: 5px;
+                }
+                #main-content-about .about-main-title {
+                    font-size: 40px;
+                    margin-bottom: 15px;
+                    line-height: 40px;
+                }
+                #main-content-about .btn {
+                    padding: 20px;
+                }
+                .form-inline .form-control {
+                    height: 55px;
+                }
+            }
+            @media screen and (max-width: 1399px) {
+                .navbar {
+                    margin-bottom: 20px;
+                }
+                .small-title {
+                    margin-bottom: 15px;
+                }
+                .main-title {
+                    font-size: 55px;
+                    margin-bottom: 20px;
+                }
+                .counter-box {
+                    height: 135px;
+                    padding: 10px 60px;
+                }
+                .clock-item {
+                    height: 120px;
+                    width: 120px;
+                    float: left;
+                    margin-right: 20px;
+                }
+                .text .val {
+                    font-size: 44px;
+                }
+                .text .type-time {
+                    font-size: 12px;
+                }
+                .home2-main-title {
+                    font-size: 60px;
+                    line-height: 60px;
+                }
+                .contact-small-title {
+                    font-size: 17px;
+                    margin-bottom: 5px;
+                }
+                .contact-main-title {
+                    font-size: 34px;
+                    margin-bottom: 23px;
+                    line-height: 38px;
+                }
+                .form-control {
+                    height: 35px;
+                    font-size: 14px;
+                    padding: 8px 23px;
+                }
+                #main-content-contact .btn {
+                    padding: 20px;
+                }
+                .location-map {
+                    height: 430px;
+                }
+                .contact-form {
+                    padding: 25px 70px;
+                }
+                #main-content-about .about-small-title {
+                    margin-bottom: 5px;
+                }
+                #main-content-about .about-main-title {
+                    font-size: 40px;
+                    margin-bottom: 15px;
+                    line-height: 40px;
+                }
+                #main-content-about .btn {
+                    padding: 5px 30px;
+                }
+                #main-content-contact .contact-small-title {
+                    font-size: 20px;
+                    margin-bottom: 0px;
+                }
+                #main-content-contact .contact-main-title {
+                    font-size: 35px;
+                    margin-bottom: 15px;
+                    line-height: 35px;
+                }
+                #main-content-contact .form-control {
+                    height: 35px;
+                    padding: 5px 23px;
+                }
+                #main-content-contact textarea.form-control {
+                    height: auto;
+                    font-size: 14px;
+                    padding: 5px 23px;
+                }
+                #main-content-contact .location-map {
+                    height: 415px;
+                }
+            }
+            @media screen and (max-width: 1299px) {
+                #main-content-about .social-icons-verticle {
+                    width: 250px;
+                    bottom: 0px;
+                    left: 100px;
+                }
+                #main-content-about .social-icons-verticle ul li {
+                    display: inline-block;
+                }
+            }
+            @media screen and (max-width: 1199px) {
+                .contact-small-title {
+                    font-size: 20px;
+                    margin-bottom: 0px;
+                }
+                .contact-main-title {
+                    font-size: 35px;
+                    line-height: 40px;
+                }
+                .location-map {
+                    height: 541px;
+                }
+                .location-map {
+                    height: 430px;
+                }
+                #main-content-about .social-icons-verticle {
+                    width: 76px;
+                    position: fixed;
+                    bottom: 25px;
+                    left: 25px;
+                }
+                #main-content-contact .contact-main-title {
+                    font-size: 30px;
+                    margin-bottom: 23px;
+                    line-height: 30px;
+                }
+                #main-content-contact .contact-form {
+                    padding: 30px 30px;
+                }
+            }
+            @media screen and (max-width: 1099px) {
+                #main-content-about .social-icons-verticle {
+                    width: 250px;
+                    bottom: -35px;
+                    left: 50px;
+                }
+                #main-content-about .social-icons-verticle ul li {
+                    display: inline-block;
+                }
+                #main-content-about p {
+                    font-size: 14px;
+                    line-height: 1.5;
+                }
+                #main-content-about blockquote {
+                    font-size: 14px;
+                    line-height: 1.5;
+                    padding-left: 20px;
+                }
+                #main-content-about blockquote::before {
+                    top: 5px;
+                }
+                #main-content-contact .contact-form {
+                    padding: 20px 15px;
+                }
+                #main-content-contact .contact-small-title {
+                    font-size: 18px;
+                    margin-bottom: 5px;
+                }
+                #main-content-contact .contact-main-title {
+                    font-size: 24px;
+                    margin-bottom: 20px;
+                    line-height: 28px;
+                }
+                #main-content-contact .form-control {
+                    height: 40px;
+                    font-size: 14px;
+                    padding: 15px 23px;
+                }
+                #main-content-contact .social-icons-verticle {
+                    width: 250px;
+                    bottom: -90px;
+                    left: 50px;
+                }
+                #main-content-contact .social-icons-verticle ul li {
+                    display: inline-block;
+                }
+            }
+            @media screen and (max-width: 991px) {
+                .about-small-title {
+                    font-size: 18px;
+                    font-weight: 500;
+                    color: #fc730a;
+                    text-transform: capitalize;
+                    display: inline-block;
+                    margin-bottom: 0px;
+                }
+                .about-main-title {
+                    font-size: 25px;
+                    font-weight: 700;
+                    color: #444;
+                    position: relative;
+                    display: block;
+                    margin-bottom: 30px;
+                    line-height: 30px;
+                }
+                .form-control {
+                    height: 45px;
+                    padding: 5px 23px;
+                }
+                .form-inline .form-control {
+                    width: 100%;
+                    padding-left: 30px;
+                    padding-right: 162px;
+                }
+                .location-map {
+                    height: 535px;
+                    border-radius: 10px;
+                    overflow: hidden;
+                }
+                .form-inline .form-control {
+                    padding-right: 125px;
+                }
+                .nav-menu::before {
+                    top: 20px;
+                    left: 95%;
+                }
+                .nav-menu::after {
+                    display: none;
+                }
+                .contact-form {
+                    padding: 40px 20px;
+                }
+                .btn {
+                    padding: 10.5px 30px;
+                }
+                .contact-small-title {
+                    font-size: 18px;
+                    margin-bottom: 0px;
+                }
+                .contact-main-title {
+                    font-size: 28px;
+                    line-height: 33px;
+                }
+                .location-map {
+                    height: 540px;
+                }
+                .form-inline .form-control {
+                    height: 45px;
+                }
+                .form-control-style2 {
+                    height: 45px;
+                }
+                .form-inline .form-control-style2 {
+                    padding-right: 125px;
+                }
+                .team-images {
+                    margin-top: 20px;
+                }
+                #main-content-about .social-icons-verticle {
+                    width: 250px;
+                    bottom: -90px;
+                    left: 40px;
+                }
+                #main-content-about .social-icons-verticle ul li {
+                    display: inline-block;
+                }
+                .social-icons li a {
+                    width: 45px;
+                    height: 45px;
+                    line-height: 40px;
+                }
+                #main-content-contact .contact-form {
+                    padding: 30px 15px;
+                }
+                #main-content-contact .contact-small-title {
+                    font-size: 18px;
+                }
+                #main-content-contact .contact-main-title {
+                    font-size: 24px;
+                    margin-bottom: 20px;
+                    line-height: 28px;
+                }
+                #main-content-contact .form-control {
+                    height: 40px;
+                    font-size: 14px;
+                    padding: 15px 23px;
+                }
+                #main-content-contact .social-icons-verticle {
+                    display: none;
+                }
+                #main-content-contact .social-icons-verticle ul li {
+                    display: none;
+                }
+                #main-content-contact .location-map {
+                    height: 485px;
+                }
+            }
+            @media screen and (max-width: 767px) {
+                #main-content-home .main-title {
+                    font-size: 50px;
+                }
+                .counter-box {
+                    height: 100px;
+                    padding: 10px 40px;
+                }
+                .counter-time-title {
+                    font-size: 14px;
+                }
+                #main-content-home .small-title {
+                    font-size: 18px;
+                }
+                #main-content-home .small-title::before {
+                    left: -65px;
+                    width: 90px;
+                }
+                #main-content-home .small-title::after {
+                    right: -155px;
+                    width: 90px;
+                }
+                #main-content-home .main-title {
+                    font-size: 40px;
+                    letter-spacing: 10px;
+                }
+                .btn {
+                    padding: 10.5px 50px;
+                }
+                .form-control {
+                    height: 45px;
+                }
+                .list-inline {
+                    text-align: center;
+                }
+                .form-control {
+                    height: 45px;
+                }
+                .location-map {
+                    margin-top: 20px;
+                    margin-bottom: 100px;
+                }
+                #main-content-about .social-icons-verticle {
+                    display: none;
+                }
+                #main-content-about .social-icons-verticle ul li {
+                    display: none;
+                }
+                #main-content-contact .contact-main-title {
+                    font-size: 24px;
+                    line-height: 28px;
+                }
+                #main-content-contact .social-icons-verticle li a {
+                    display: none;
+                }
+                #main-content-contact .social-icons-verticle {
+                    display: none;
+                }
+                #main-content-contact .social-icons-verticle ul li {
+                    display: none;
+                }
+            }
+            @media screen and (max-width: 575px) {
+                #main-content-home .main-title {
+                    font-size: 50px;
+                }
+                #main-content-home .small-title {
+                    font-size: 18px;
+                }
+                #main-content-home .small-title::before {
+                    left: -65px;
+                    width: 90px;
+                }
+                #main-content-home .small-title::after {
+                    right: -155px;
+                    width: 90px;
+                }
+                #main-content-home .main-title {
+                    font-size: 40px;
+                    letter-spacing: 10px;
+                }
+                #main-content-about .social-icons-verticle {
+                    display: none;
+                }
+                #main-content-about .social-icons-verticle ul li {
+                    display: none;
+                }
+                #main-content-contact .social-icons-verticle {
+                    width: 250px;
+                    bottom: -90px;
+                    left: 20px;
+                }
+                #main-content-contact .social-icons-verticle ul li {
+                    display: none;
+                }
+            }
+            @media screen and (max-width: 491px) {
+                #header {
+                    margin-bottom: 0px;
+                    top: 0px;
+                    left: 0px;
+                }
+                .fixed-middle {
+                    margin-top: 100px;
+                }
+                #main-content-home .small-title {
+                    font-size: 15px;
+                }
+                #main-content-home .small-title::before {
+                    left: -65px;
+                    width: 90px;
+                }
+                #main-content-home .small-title::after {
+                    right: -155px;
+                    width: 90px;
+                }
+                #main-content-home .main-title {
+                    font-size: 30px;
+                    letter-spacing: 5px;
+                }
+                .form-inline .form-control {
+                    height: 45px;
+                }
+                .form-control {
+                    height: 45px;
+                }
+                .btn {
+                    padding: 10.5px 30px;
+                }
+                #main-content-about .team-images {
+                    width: 100%;
+                    margin-bottom: 150px;
+                }
+
+                #main-content-about .social-icons-verticle ul li {
+                    display: none;
+                }
+                #main-content-about .about-main-title {
+                    font-size: 35px;
+                    line-height: 35px;
+                }
+                .social-icons-verticle li a {
+                    display: none;
+                }
+                #main-content-contact .contact-form {
+                    padding: 15px 15px;
+                }
+                #main-content-contact .contact-main-title {
+                    font-size: 24px;
+                    margin-bottom: 10px;
+                }
+                #main-content-contact .contact-small-title {
+                    font-size: 18px;
+                }
+                #main-content-contact .form-control {
+                    height: 35px;
+                    padding: 8px 23px;
+                }
+                #main-content-contact .social-icons-verticle {
+                    width: 250px;
+                    bottom: -55px;
+                    left: 20px;
+                }
+                #main-content-contact .social-icons-verticle ul li {
+                    display: inline-block;
+                }
+                .fixed-middle {
+                    height: 100%;
+                    overflow-y: scroll;
+                }
+            }
+        }
